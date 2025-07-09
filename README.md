@@ -44,6 +44,12 @@ To extract, clean, analyze, and visualize COVID-19 data from a public dataset, u
 - Identified countries with highest recovery rates
 - Visualized using horizontal bar plot (`seaborn.barplot()`)
 
+## Visualizations Performed
+All visualizations are generated using `matplotlib` and `seaborn` and include:
+- Total Cases vs Deaths in India (Line Plot)
+- COVID-19 Case Growth in India, UK, Germany (Multi-Line Plot)
+- Top 10 Countries by Recovery Rate (Bar Plot)
+
 ## Output Files
 - `covid_analysis.py` – Complete code for analysis and visualization
 - `covid_cleaned_sample.csv` – Cleaned and preprocessed data saved for further use
