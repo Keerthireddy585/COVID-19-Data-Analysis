@@ -46,7 +46,7 @@ To extract, clean, analyze, and visualize COVID-19 data from a public dataset, u
 
 ## Output Files
 - `covid_analysis.py` – Complete code for analysis and visualization
-- `covid_cleaned_data.csv` – Cleaned and preprocessed data saved for further use
+- `covid_cleaned_sample.csv` – Cleaned and preprocessed data saved for further use
 
 ## Project Outcomes
 - Built a clean, reproducible data analysis pipeline from scratch
